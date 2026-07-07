@@ -1,1 +1,29 @@
-# 77
+# 77                                             index.html
+football-drone/
+│
+├── index.html
+├── css/
+│   ├── style.css
+│   ├── hero.css
+│   ├── effects.css
+│   └── responsive.css
+│
+├── js/
+│   ├── main.js
+│   ├── drone.js
+│   ├── football.js
+│   ├── aiTracking.js
+│   ├── fireworks.js
+│   ├── stars.js
+│   ├── particles.js
+│   ├── ui.js
+│   └── audio.js
+│
+├── models/
+│   ├── drone.glb
+│   ├── football.glb
+│   └── stadium.glb
+│
+├── textures/
+├── sounds/
+└── assets/
